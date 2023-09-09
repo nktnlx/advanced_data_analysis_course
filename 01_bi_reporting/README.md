@@ -1,4 +1,4 @@
-# Product-oriented approach to BI reporting
+# Product-oriented Approach to BI Reporting
 
 
 
