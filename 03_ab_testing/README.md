@@ -1,4 +1,4 @@
-# AB Testing
+# Advanced AB Testing
 
 My projects and homework solutions for "AB Testing Advanced Design and Analysis Approaches" module:   
 
