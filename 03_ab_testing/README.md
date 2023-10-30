@@ -7,3 +7,4 @@ My projects and homework solutions for "AB Testing Advanced Design and Analysis 
 `03_samples_srm.ipynb` - stratified sampling and cheking for Sample Ratio Mismatch (SRM)  
 `04_statistical_tests.ipynb` - calculating required sample size using different statistical tests   
 `05_bootstrap.ipynb` - using bootstrap to build confidence intervals and percentile difference hypothesis testing  
+`06_multiple_comparisons.ipynb` - dealing with multiple comparisons problem in an experiment data  
