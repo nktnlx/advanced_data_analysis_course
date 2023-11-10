@@ -9,3 +9,4 @@ My projects and homework solutions for "AB Testing Advanced Design and Analysis 
 `05_bootstrap.ipynb` - using bootstrap to build confidence intervals and percentile difference hypothesis testing  
 `06_multiple_comparisons.ipynb` - dealing with multiple comparisons problem in an experiment data  
 `07_external_validity.ipynb` - exploring external validity by checking for primacy and novelty effects in A/B tests results  
+`08_stratification.ipynb` - calculating stratified mean, stratified variance and performing post-stratification t-test  
