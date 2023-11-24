@@ -10,4 +10,5 @@ My projects and homework solutions for "AB Testing Advanced Design and Analysis 
 `06_multiple_comparisons.ipynb` - dealing with multiple comparisons problem in an experiment data  
 `07_external_validity.ipynb` - exploring external validity by checking for primacy and novelty effects in A/B tests results  
 `08_stratification.ipynb` - calculating stratified mean, stratified variance and performing post-stratification t-test  
-`09_cuped.ipynb` - conducting AB test using CUPED, comparing required sample size calculated using basic t-test Vs CUPED t-test   
+`09_cuped.ipynb` - conducting AB test using CUPED, comparing required sample size calculated using basic t-test Vs CUPED t-test    
+`10_sprt.ipynb` - sequential probability ratio testing (SPRT)  
