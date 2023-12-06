@@ -13,4 +13,5 @@ My projects and homework solutions for "AB Testing Advanced Design and Analysis 
 `09_cuped.ipynb` - conducting AB test using CUPED, comparing required sample size calculated using basic t-test Vs CUPED t-test    
 `10_sprt.ipynb` - sequential probability ratio testing (SPRT)  
 `11_diff_in_diff.ipynb` - causal inference: Difference-in-Difference (Diff-in-Diff) hypothesis testing   
-`12_causal_impact.ipynb` - causal impact using bayesian structural time-series models  
+`12_causal_impact.ipynb` - causal impact using bayesian structural time-series models   
+`13_psm.ipynb` - propensity score matching (PSM)   
