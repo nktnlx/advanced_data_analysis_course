@@ -7,3 +7,4 @@ My projects and homework solutions for "Machine Learning for Data Analytics" mod
 `03_classification.ipynb` - using logistic regression and SVM for solving classification problem  
 `04_knn.ipynb` - using kNN regressor to build cars' price prediction model   
 `05_kmeans_dbscan.ipynb` - using kMeans and DBSCAN algorithms to cluster users data   
+`06_ts_forecasting.ipynb` - time series forecasting using ETNA Time-Series Library
